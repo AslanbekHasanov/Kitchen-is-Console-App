@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.exe
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.deps.json
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.runtimeconfig.json
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.dll
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\bin\Debug\netcoreapp3.1\Oshxona.pdb
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.dll
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.pdb
+C:\Users\HOME\Desktop\Loyha\Oshxona\Oshxona\obj\Debug\netcoreapp3.1\Oshxona.genruntimeconfig.cache
